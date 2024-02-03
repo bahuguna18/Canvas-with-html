@@ -10,3 +10,8 @@ for example:
   canvas.width = window.innerWidth;
 
   canvas.height = window.innerHeight;
+
+
+
+
+![image](https://github.com/bahuguna18/Canvas-with-html/assets/71915012/63a2b909-b4d3-451b-940e-f68c1572fbd8)
