@@ -6,5 +6,7 @@ In this file first we have to set the canvas size to acutall window size, which 
 for example: 
 
   var canvas = document.querySelector('canvas');
+  
   canvas.width = window.innerWidth;
+
   canvas.height = window.innerHeight;
